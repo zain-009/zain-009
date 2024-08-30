@@ -7,7 +7,7 @@ Hi👋, I'm Zain.
 ![](https://github-readme-streak-stats.herokuapp.com/?user=zain-009&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=zain-009&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🌐 Socials:
+## Connect with me:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/zane_x6) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/zain-ali-862727250) 
 
 ### ✍️ Random Dev Quote
