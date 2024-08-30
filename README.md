@@ -10,7 +10,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=zain-009&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## Connect with me:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/zane_x6) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/zain-ali-862727250) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/zane_x6) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/zain-ali-862727250) [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:zaynmr810@gmail.com)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=zain-009&icon=8&color=9)](https://visitcount.itsvg.in)
